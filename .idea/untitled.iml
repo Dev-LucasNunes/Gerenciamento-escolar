@@ -265,6 +265,10 @@
     <entry key="public/stylesheets">
       <value>file://$MODULE_DIR$/../untitled/public/stylesheets</value>
     </entry>
+    <entry key="test/mailers/previews">
+      <value>file://$MODULE_DIR$/test/mailers/previews</value>
+      <value>file://$MODULE_DIR$/../untitled/test/mailers/previews</value>
+    </entry>
     <entry key="tmp">
       <value>file://$MODULE_DIR$/../untitled/tmp</value>
     </entry>
